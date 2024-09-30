@@ -1,0 +1,32 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+npm-debug.log
+yarn-error.log
+.pnpm-debug.log
+
+# Environment variables
+.env
+
+# Optional npm cache directory
+.npm
+
+# Build files
+dist/
+build/
+
+# Docker files
+docker-compose.override.yml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.swp
+*.bak
+*.tmp
