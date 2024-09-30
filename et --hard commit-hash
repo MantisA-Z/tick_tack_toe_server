@@ -1,0 +1,35 @@
+[33mcommit d1e63bd770d9efc21af721e9f4bd7c0a8ece7797[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: MantisA-Z <160739281+MantisA-Z@users.noreply.github.com>
+Date:   Mon Sep 30 11:04:58 2024 +0530
+
+    downloaded path module
+
+[33mcommit 8af53914b37dbd83cc6f0cf2a9357edf7cb7f61d[m
+Author: MantisA-Z <160739281+MantisA-Z@users.noreply.github.com>
+Date:   Mon Sep 30 10:59:29 2024 +0530
+
+    added route for *
+
+[33mcommit 058ed738722ec0574ea9cca0dcf5045a1705a674[m
+Author: MantisA-Z <160739281+MantisA-Z@users.noreply.github.com>
+Date:   Mon Sep 30 10:31:51 2024 +0530
+
+    downloaded express
+
+[33mcommit 253d734b8729bd0c5c6368f9946f1047d19502e4[m
+Author: MantisA-Z <160739281+MantisA-Z@users.noreply.github.com>
+Date:   Mon Sep 30 09:55:08 2024 +0530
+
+    Add .gitignore and remove unnecessary files
+
+[33mcommit f23ad6b8780e28700bf33747e9e8749bc980df65[m
+Author: MantisA-Z <160739281+MantisA-Z@users.noreply.github.com>
+Date:   Mon Sep 30 09:53:19 2024 +0530
+
+    added gitignore file
+
+[33mcommit 8edf46e3771287b2981eeacc6a161d6f982565e7[m
+Author: MantisA-Z <160739281+MantisA-Z@users.noreply.github.com>
+Date:   Mon Sep 30 09:49:03 2024 +0530
+
+    project completed trial 2
